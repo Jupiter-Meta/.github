@@ -14,3 +14,5 @@ Brands and businesses from around the globe can power their consumer research wi
 
 Copyright 2024 Meta Jupiter Software Solutions Private Limited.
 All Rights Reserved.
+
+[![Jupiter Meta's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jupiter-Meta)](https://github.com/Jupiter-Meta/github-readme-activity-graph)
