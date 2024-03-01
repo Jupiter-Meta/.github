@@ -1,5 +1,6 @@
 ![Jupiter Meta](https://jupitermeta.io/JMLOGO.svg)
-#Jupiter Meta
+
+# Jupiter Meta
 
 ## Let your Data do more for you!
 Our products allow individuals to monetize their footprint on the internet.
